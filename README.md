@@ -119,14 +119,6 @@ npm start
 }
 ```
 
----
-
-## 📸 Screenshots (Optional)
-
-*Add UI screenshots here (shorten form + analytics dashboard)*
-
----
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
